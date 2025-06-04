@@ -1,0 +1,4 @@
+name = "testgithub"
+compatibility_date = "2025-06-04"
+
+assets = { directory = "./" } # index.html があるディレクトリ
